@@ -1,5 +1,5 @@
 # Forecasting the Past
-
+<img width="1909" height="560" alt="qualitative sample forecasting the past" src="https://github.com/user-attachments/assets/6d924bb4-83ad-40d8-b39b-a3669b9c263e" />
 This repository is the official reference implementation for the paper: [Forecasting the Past](https://arxiv.org/abs/2604.12425).
 
 ## Repository Structure

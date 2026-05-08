@@ -1,4 +1,8 @@
 # Forecasting the Past
+
+[![arXiv](https://img.shields.io/badge/arXiv-2604.12425-b31b1b.svg)](https://arxiv.org/abs/2604.12425)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 <img width="1909" height="560" alt="qualitative sample forecasting the past" src="https://github.com/user-attachments/assets/6d924bb4-83ad-40d8-b39b-a3669b9c263e" />
 This repository is the official reference implementation for the paper: [Forecasting the Past](https://arxiv.org/abs/2604.12425).
 

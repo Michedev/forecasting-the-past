@@ -1,0 +1,9 @@
+torch
+gymnasium
+highway-env
+stable-baselines3
+h5py
+numpy
+scikit-learn
+matplotlib
+pyyaml
